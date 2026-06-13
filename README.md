@@ -254,6 +254,9 @@ Analysis   → NLP + Sentiment Models
 
 ![](https://img.shields.io/badge/Status-Ongoing%20Learning-blue?style=flat-square) ![](https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square)
 
+
+[![DSA Mastery](https://img.shields.io/badge/📚%20DSA-Mastery-blue?style=for-the-badge)](https://github.com/Sadik47x/DSA-Mastery)
+
 ---
 
 ## 🗓️ My Journey — Learning Timeline
