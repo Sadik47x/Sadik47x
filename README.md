@@ -296,7 +296,7 @@ Analysis   → NLP + Sentiment Models
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sadik47x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Sadik47x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 <br/><br/>
 
