@@ -343,7 +343,7 @@ Analysis   → NLP + Sentiment Models
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sadik47x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadik47x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sadik--mondal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadik-mondal/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadikmondal789@email.com)
 
 <br/>
 
